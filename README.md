@@ -1,5 +1,9 @@
 # java_exercise
 
+Przed przystąpieniem do zadania zrób forka projektu do swojego repozytorium.
+
+Po zmianach wystaw pull requesta ze zmianami.
+
 Uporządkuj projekt:
 wydziel najważniejsze pakiety,
 popraw błędy (jeśli są)
