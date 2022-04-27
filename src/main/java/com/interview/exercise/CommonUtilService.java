@@ -3,7 +3,7 @@ package com.interview.exercise;
 import org.springframework.stereotype.Service;
 
 @Service
-public class COmmonUtilService {
+public class CommonUtilService {
 
     public static String standardUpperCase (String givenString){
 

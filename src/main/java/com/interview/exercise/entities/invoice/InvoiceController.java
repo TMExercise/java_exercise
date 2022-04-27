@@ -1,11 +1,11 @@
-package com.interview.exercise.entities;
+package com.interview.exercise.entities.invoice;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class FaktraController {
+public class InvoiceController {
 
     @Autowired
-    private  FakturaSerwis fakturaSerwis;
+    private InvoiceService invoiceService;
 }
