@@ -1,4 +1,4 @@
-package com.interview.exercise.entities;
+package com.interview.exercise.entities.role;
 
 public interface RoleMapper {
 
